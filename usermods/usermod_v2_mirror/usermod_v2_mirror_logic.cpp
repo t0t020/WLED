@@ -6,7 +6,6 @@ void MirrorLogic::setup() {
 
     initDone = true;
 
-
     buttonState = false;
     radarState = false;
     lastMeas = millis();
