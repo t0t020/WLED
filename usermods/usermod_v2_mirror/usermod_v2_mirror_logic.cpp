@@ -96,7 +96,6 @@ bool MirrorLogic::readFromConfig(JsonObject& root) {
     return true;
 }
 
-
 uint16_t MirrorLogic::getId() {
     return USERMOD_ID_EXAMPLE; // Oder deine spezifische ID
 }
